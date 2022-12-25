@@ -1,6 +1,6 @@
-[submodule "chimera-kings-db"]
-	path = chimera-kings-db
-	url = https://github.com/5enthilbaliah/chimera-kings-db.git
-[submodule "chimera-kings-cache"]
-	path = chimera-kings-cache
-	url = https://github.com/5enthilbaliah/chimera-kings-cache.git
+[submodule "db-chimera-kings"]
+	path = db-chimera-kings
+	url = https://github.com/5enthilbaliah/db-chimera-kings.git
+[submodule "cache-chimera-kings"]
+	path = cache-chimera-kings
+	url = https://github.com/5enthilbaliah/cache-chimera-kings.git
